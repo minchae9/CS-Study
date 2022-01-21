@@ -1,4 +1,4 @@
-> :bulb: 이산 == Discret로써 별개(불 연속적인) 데이터 흐름을 다루기에 적합한 컴퓨터의 특성을 살린 수학으로 컴퓨터 과학의 다른 과목들에 공기처럼 녹아 있는 개념들이 많은 가장 기본적인 과목이면서 수학적 사고와 컴퓨팅 사고력을 향상하는데 도움이 됩니다.
+> :bulb: 이산 == Discrete로써 별개(불 연속적인) 데이터 흐름을 다루기에 적합한 컴퓨터의 특성을 살린 수학으로 컴퓨터 과학의 다른 과목들에 공기처럼 녹아 있는 개념들이 많은 가장 기본적인 과목이면서 수학적 사고와 컴퓨팅 사고력을 향상하는데 도움이 됩니다.
 
 ### 학습 주제
 
@@ -14,7 +14,7 @@
   https://www.youtube.com/playlist?list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n
 - 이산수학의 주요 이론들을 전반적으로 다루고 있으며 문제와 해설까지 해줘서 효과적으로 학습이 가능합니다. (순서를 재정리한 별도 링크 사용)
   https://www.youtube.com/playlist?list=PLW8wOTYOluvFr4favjXEVXMghqQNYOOqI
-</details>
+  </details>
 
 <details>
 <summary>교재 : [컴퓨팅 사고력을 키우는 이산수학](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156643050)</summary>
