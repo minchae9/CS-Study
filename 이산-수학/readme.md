@@ -14,6 +14,7 @@
   https://www.youtube.com/playlist?list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n
 - 이산수학의 주요 이론들을 전반적으로 다루고 있으며 문제와 해설까지 해줘서 효과적으로 학습이 가능합니다. (순서를 재정리한 별도 링크 사용)
   https://www.youtube.com/playlist?list=PLW8wOTYOluvFr4favjXEVXMghqQNYOOqI
+  
   </details>
 
 <details>
@@ -28,23 +29,41 @@
 <summary>이산수학의 범위</summary>
 
 - 수론(수의 표현)
+
 - 논리학(논리와 명제)
+
 - 증명법
+
 - 집합론
+
 - 행열과 행렬식
+
 - 관계(이진 관계 속성)
+
 - 함수
+
 - (그래프 이론)그래프와 트리
+
 - 부울대수
+
 - 조합론?-셈(순열,조합,확률)
+
 - 알고리즘
+
 - 오토마타
-</details>
+  
+  </details>
 
 - 촘스키 위계
+
 - 형식 언어와 생성 규칙, 연산
+
 - 정규 언어
+
 - 문맥 자유 언어와 펌핑 보조 정리
+
 - 촘스키 정규 형식과 멤버십 알고리즘
+
 - 튜링 기계와 문제
-</details>
+  
+  </details>
